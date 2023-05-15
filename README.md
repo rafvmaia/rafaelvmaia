@@ -1,23 +1,40 @@
-## 💜 Olá, meu nome é <strong>{Rafael Valença Maia}!</strong>
 
-> Desenvolvedor Front-End Developer I HTML | CSS | SEO | WordPress. Apaixonado por criar soluções digitais elegantes e funcionais, com foco em melhorar a experiência do usuário. Sempre buscando atualizações sobre as mais recentes tendências de desenvolvimento web e móvel, para garantir que os projetos sejam sempre inovadores.
+![](https://komarev.com/ghpvc/?username=rafvmaia&color=006bed)
 
-----
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-## 🚀 Minhas Skills
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Web.
+- 🎓 &nbsp; Estudando **Sistemas para Internet** no <a href="https://www.wyden.com.br/">UniFBV Wyden</a>.
+- 💼 &nbsp; Trabalhando como **FrontEnd Developer** na <a href="https://www.tentpeg.orc">TentPeg Creative</a>
+- 🌱 &nbsp; Aprendendo mais sobre **JS, C#, React Native**.
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
----
+**Aplicações e Dados**
 
-## ⭐ Contatos:
 
-<div>
-<a href="https://instagram.com/rafaelvmaia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@estudiodesites.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/rafvmaia/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/rafvmaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafvmaias&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafvmaia/)](https://www.linkedin.com/in/rafvmaia/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@estudiodesites.com.br)](mailto:contato@estudiodesites.com.br)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/rafvmaia?label=follow&style=social)](LINK-DO-SEU-GITHUB)
