@@ -27,7 +27,7 @@
 <br/>
 
 <a href="https://github.com/rafvmaia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafvmaias&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafvmaia&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
