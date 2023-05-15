@@ -34,6 +34,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafvmaia/)](https://www.linkedin.com/in/rafvmaia/)
+[![Linkedin: RAFAEL VALENÇA MAIA](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafvmaia/)](https://www.linkedin.com/in/rafvmaia/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@estudiodesites.com.br)](mailto:contato@estudiodesites.com.br)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/rafvmaia?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub RAFAEL VALENÇA MAIA]( https://img.shields.io/github/followers/rafvmaia?label=follow&style=social)](LINK-DO-SEU-GITHUB)
