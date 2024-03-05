@@ -13,7 +13,7 @@
 **Aplicações e Dados**
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,postgres,py" />
   </a>
@@ -21,7 +21,11 @@
 
 **Ferramentas de Desenvolvimento**
 
-  [(https://skillicons.dev/icons?i=figma,vscode&theme=light)]
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode" />
+  </a>
+</p>
 
 
 <br/>
