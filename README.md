@@ -14,7 +14,7 @@
 
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://estudiodesites.com.br">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,postgres,py" />
   </a>
 </p>
@@ -22,7 +22,7 @@
 **Ferramentas de Desenvolvimento**
 
   <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://estudiodesites.com.br">
     <img src="https://skillicons.dev/icons?i=figma,vscode" />
   </a>
 </p>
