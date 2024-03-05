@@ -6,22 +6,22 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Web.
 - 🎓 &nbsp; Estudando **Sistemas para Internet** no <a href="https://www.wyden.com.br/">UniFBV Wyden</a>.
 - 💼 &nbsp; Trabalhando como **FrontEnd Developer** na <a href="https://www.tentpeg.orc">TentPeg Creative</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JS, HTML5, CSS3, PostgreSQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **JS, HTML5, CSS3, Postgres, Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PostgreSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=postgresql)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,postgres,py" />
+  </a>
+</p>
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  [(https://skillicons.dev/icons?i=figma,vscode&theme=light)]
 
 
 <br/>
