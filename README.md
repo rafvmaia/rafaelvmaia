@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://estudiodesites.com.br">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
 
