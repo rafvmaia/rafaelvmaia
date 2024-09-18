@@ -1,37 +1,29 @@
 
-![](https://komarev.com/ghpvc/?username=rafvmaia&color=006bed)
+![Logo](https://i.imgur.com/y9CYaSp.png)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+
+## 🚀 Olá, eu sou Rafael Valença
+Sou um desenvolvedor Frontend com uma paixão por criar experiências digitais impactantes e intuitivas, e uma sólida experiência em Inbound Marketing. 
+
+
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Web.
-- 🎓 &nbsp; Estudando **Sistemas para Internet** no <a href="https://www.wyden.com.br/">UniFBV Wyden</a>.
-- 💼 &nbsp; Trabalhando como **FrontEnd Developer** na <a href="https://www.tentpeg.orc">TentPeg Creative</a>
-- 🌱 &nbsp; Aprendendo mais sobre **JS, HTML5, CSS3, Wordpress**.
+- 🎓 &nbsp; Estudando **Sistemas para Internet** na UniFBV Wyden.
+- 💼 &nbsp; Trabalhando como **Web Lead** na TentPeg Creative.
+- 🌱 &nbsp; Aprendendo mais sobre **JS, HTML5, CSS3, WordPress, Git e Github e Inbound Marketing**.
+## 🚀 Minhas Redes Sociais
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafvmaia/) 	
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafvmaia)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelvmaia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-c9f31d?style=for-the-badge&logo=todoist&logoColor=black)](https://rafaelvalenca.tech)
+## 🚀 Linguagens Utilizadas
 
-**Aplicações e Dados**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+## Stats
 
-<p align="left">
-  <a href="[https://estudiodesites.com.br](https://rafaelvalenca.tech)">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-  </a>
-</p>
-
-**Ferramentas de Desenvolvimento**
-
-  <p align="left">
-  <a href="https://rafaelvalenca.tech">
-    <img src="https://skillicons.dev/icons?i=figma,vscode" />
-  </a>
-</p>
-
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: RAFAEL VALENÇA MAIA](https://img.shields.io/badge/-RAFVMAIA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafvmaia/)](https://www.linkedin.com/in/rafvmaia/)
-[![Gmail Badge](https://img.shields.io/badge/-agenciaestudiodesites@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agenciaestudiodesites@gmail.com)](mailto:agenciaestudiodesites@gmail.com)
-[![GitHub RAFAEL VALENÇA MAIA]( https://img.shields.io/github/followers/rafvmaia?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/rafvmaia/))
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafvmaia&layout=compact&bg_color=c9f31d&border_color=000&title_color=000&text_color=000)
