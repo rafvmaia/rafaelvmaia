@@ -8,8 +8,8 @@ Sou um desenvolvedor Frontend com uma paixão por criar experiências digitais i
 
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de Web.
-- 🎓 &nbsp; Estudando **Sistemas para Internet** na UniFBV Wyden.
-- 💼 &nbsp; Trabalhando como **Web Lead** na TentPeg Creative.
+- 🎓 &nbsp; Formado em **Sistemas para Internet** na UniFBV Wyden.
+- 💼 &nbsp; **Desenvolvedor Frontend** na TentPeg Creative trabalhando remoto para o EUA 🇺🇸.
 - 🌱 &nbsp; Aprendendo mais sobre **JS, HTML5, CSS3, WordPress, Git e Github e Inbound Marketing**.
 ## 🚀 Minhas Redes Sociais
 
@@ -24,6 +24,34 @@ Sou um desenvolvedor Frontend com uma paixão por criar experiências digitais i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafvmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rafvmaia&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafvmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rafvmaia&layout=compact&bg_color=c9f31d&border_color=000&title_color=000&text_color=000)
+---
+[![](https://visitcount.itsvg.in/api?id=rafvmaia&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 💻 Certifications
+
+Aplicações e Impacto da lA no Mundo Atual: https://hermes.dio.me/certificates/NFREECVZ.pdf
+
+Certificação em Google Ads: https://drive.google.com/file/d/1vpfKQ88f8xDnZPwZ0DZ-2k3b8RHcxaiD/
+
+
+Versionamento de Código com Git e GitHub: https://hermes.dio.me/certificates/VP97I9XZ.pdf
+
+
+SEO: Mastering Strategies and Tools for Conversion Increases: https://cursos.alura.com.br/certificate/e080e98d-2475-431a-854d-a775c2fee9b3?lang
+
+
+Google Analytics 4: implementação e relatórios: https://cursos.alura.com.br/certificate/52fa2849-339e-4c2c-ac26-83007f9be801?lang
+
+Aplicações Práticas da Inteligência Artificial: https://hermes.dio.me/certificates/6YP9MLK1.pdf
+
+Entendendo Algoritmos e Fluxogramas: https://hermes.dio.me/certificates/C2WEUT3D.pdf
+
+
