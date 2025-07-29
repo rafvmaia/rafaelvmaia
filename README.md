@@ -1,7 +1,4 @@
 
-![Logo](https://i.imgur.com/y9CYaSp.png)
-
-
 ## 🚀 Olá, eu sou Rafael Valença
 Sou um desenvolvedor Frontend com uma paixão por criar experiências digitais impactantes e intuitivas, e uma sólida experiência em Inbound Marketing. 
 
